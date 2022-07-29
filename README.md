@@ -1,3 +1,4 @@
+
 1.We have to calculate the percentage of marks obtained in three subjects (each out of
 100) by student A and in four subjects (each out of 100) by student B. Create an abstract
 class 'Marks' with an abstract method 'getPercentage'. It is inherited by two other
